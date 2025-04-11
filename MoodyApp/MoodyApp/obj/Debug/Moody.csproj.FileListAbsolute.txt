@@ -17,3 +17,6 @@ C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.exe.manifest
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.application
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.exe.manifest
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.application
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\Moody.mdf
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.TrustInfo.xml
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\Moody_log.ldf
