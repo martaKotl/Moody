@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Marta\\EsattoInternship\\MoodyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|C:\\Marta\\EsattoInternship\\MoodyApp\\moodyapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|C:\\Marta\\EsattoInternship\\MoodyApp\\moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\App.config",
+              "RelativeDocumentMoniker": "MoodyApp\\App.config",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\App.config",
+              "RelativeToolTip": "MoodyApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T10:49:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FrmMood.cs [Design]",
               "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMood.cs",
               "RelativeDocumentMoniker": "MoodyApp\\FrmMood.cs",
@@ -38,27 +55,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmMain.cs [Design]",
               "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.cs",
               "RelativeDocumentMoniker": "MoodyApp\\FrmMain.cs",
               "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.cs [Design]",
               "RelativeToolTip": "MoodyApp\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T10:08:06.916Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-11T10:08:06.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmDaysHistory.cs [Design]",
               "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs",
               "RelativeDocumentMoniker": "MoodyApp\\FrmDaysHistory.cs",
               "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs [Design]",
               "RelativeToolTip": "MoodyApp\\FrmDaysHistory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T08:22:54.471Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-11T08:22:54.471Z"
             }
           ]
         }
