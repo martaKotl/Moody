@@ -13,3 +13,7 @@ C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.FrmMain.resources
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\Moody.csproj.Up2Date
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.exe
 C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.pdb
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.exe.manifest
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.application
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.exe.manifest
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.application

@@ -4,3 +4,9 @@ C:\Marta\EsattoInternship\EssatoApp\DataAccessLayer\obj\Debug\DataAccessLayer.cs
 C:\Marta\EsattoInternship\EssatoApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Marta\EsattoInternship\EssatoApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Marta\EsattoInternship\EssatoApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Marta\EsattoInternship\MoodyApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

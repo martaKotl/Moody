@@ -127,8 +127,6 @@ namespace MoodyApp
                 cbExercises.SelectedIndex = -1;
                 if (dayInformationsDetails.ExerciseName != null && cbExercises.Items.Contains(dayInformationsDetails.ExerciseName) && chkExercise.Checked)
                     cbExercises.SelectedItem = dayInformationsDetails.ExerciseName;
-                else
-                    MessageBox.Show("Error. Invalid Exercise Name.");
             }
             else
                 dayInformationsDetails.MoodRate = 0;
