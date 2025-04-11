@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Marta\\EsattoInternship\\MoodyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmdayshistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmdayshistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmdayshistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|c:\\marta\\esattointernship\\moodyapp\\moodyapp\\frmmood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30471277-3480-4EEB-9F62-7918F6512202}|MoodyApp\\Moody.csproj|solutionrelative:moodyapp\\frmmood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.Designer.cs",
+              "RelativeToolTip": "MoodyApp\\FrmMain.Designer.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAtwOUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:23:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmMain.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMain.cs",
+              "RelativeToolTip": "MoodyApp\\FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:23:52.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDaysHistory.Designer.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.Designer.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmDaysHistory.Designer.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.Designer.cs",
+              "RelativeToolTip": "MoodyApp\\FrmDaysHistory.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowIUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:22:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDaysHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmDaysHistory.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs [Design]",
+              "RelativeToolTip": "MoodyApp\\FrmDaysHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:22:54.471Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDaysHistory.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmDaysHistory.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmDaysHistory.cs",
+              "RelativeToolTip": "MoodyApp\\FrmDaysHistory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAawCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:22:44.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\Program.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\Program.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\Program.cs",
+              "RelativeToolTip": "MoodyApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:19:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMood.Designer.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMood.Designer.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmMood.Designer.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMood.Designer.cs",
+              "RelativeToolTip": "MoodyApp\\FrmMood.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:20:57.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMood.cs",
+              "DocumentMoniker": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMood.cs",
+              "RelativeDocumentMoniker": "MoodyApp\\FrmMood.cs",
+              "ToolTip": "C:\\Marta\\EsattoInternship\\MoodyApp\\MoodyApp\\FrmMood.cs",
+              "RelativeToolTip": "MoodyApp\\FrmMood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:20:22.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

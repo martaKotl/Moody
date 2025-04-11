@@ -1,0 +1,15 @@
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\Moody.csproj.AssemblyReference.cache
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.Properties.Resources.resources
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\Moody.csproj.GenerateResource.cache
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\Moody.csproj.CoreCompileInputs.cache
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.FrmMood.resources
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.exe.config
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.exe
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\MoodyApp.pdb
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\DataAccessLayer.dll
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\bin\Debug\DataAccessLayer.pdb
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.FrmDaysHistory.resources
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.FrmMain.resources
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\Moody.csproj.Up2Date
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.exe
+C:\Marta\EsattoInternship\MoodyApp\MoodyApp\obj\Debug\MoodyApp.pdb

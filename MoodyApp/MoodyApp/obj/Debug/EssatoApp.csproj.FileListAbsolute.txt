@@ -1,0 +1,15 @@
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\bin\Debug\EssatoApp.exe.config
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\bin\Debug\EssatoApp.exe
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\bin\Debug\EssatoApp.pdb
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.csproj.AssemblyReference.cache
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.FrmMain.resources
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.Properties.Resources.resources
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.csproj.GenerateResource.cache
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.csproj.CoreCompileInputs.cache
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.exe
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.pdb
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.FrmMood.resources
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\bin\Debug\DataAccessLayer.dll
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\bin\Debug\DataAccessLayer.pdb
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.csproj.Up2Date
+C:\Marta\EsattoInternship\EssatoApp\EssatoApp\obj\Debug\EssatoApp.FrmDaysHistory.resources
